@@ -76,7 +76,9 @@ public ResultSet ConsultaDB(String sql) throws SQLException {
     cursor = stm.executeQuery(sql);
     return cursor;
 }
-
+    public Connection getConexion() {
+        return conexion;
+    }
 public void CerrarDB() throws SQLException {
     conexion.close();
 }

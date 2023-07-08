@@ -41,6 +41,7 @@ public class Seleccion extends javax.swing.JFrame {
         btnProducto = new javax.swing.JButton();
         btnEmpleado = new javax.swing.JButton();
         btnCliente = new javax.swing.JButton();
+        btnConsulta = new javax.swing.JButton();
         lblFondo = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
@@ -52,7 +53,7 @@ public class Seleccion extends javax.swing.JFrame {
                 btnProductoActionPerformed(evt);
             }
         });
-        getContentPane().add(btnProducto, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 140, 100, -1));
+        getContentPane().add(btnProducto, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 110, 100, -1));
 
         btnEmpleado.setText("Empleado");
         btnEmpleado.addActionListener(new java.awt.event.ActionListener() {
@@ -60,7 +61,7 @@ public class Seleccion extends javax.swing.JFrame {
                 btnEmpleadoActionPerformed(evt);
             }
         });
-        getContentPane().add(btnEmpleado, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 40, 100, -1));
+        getContentPane().add(btnEmpleado, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 50, 100, -1));
 
         btnCliente.setText("Cliente");
         btnCliente.addActionListener(new java.awt.event.ActionListener() {
@@ -68,7 +69,15 @@ public class Seleccion extends javax.swing.JFrame {
                 btnClienteActionPerformed(evt);
             }
         });
-        getContentPane().add(btnCliente, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 230, 100, -1));
+        getContentPane().add(btnCliente, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 170, 100, -1));
+
+        btnConsulta.setText("Consulta");
+        btnConsulta.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnConsultaActionPerformed(evt);
+            }
+        });
+        getContentPane().add(btnConsulta, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 220, 100, -1));
 
         lblFondo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/Menu.gif"))); // NOI18N
         lblFondo.setVerticalAlignment(javax.swing.SwingConstants.TOP);
@@ -79,13 +88,13 @@ public class Seleccion extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnProductoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnProductoActionPerformed
-        /*Agencia Ag=new Agencia();
-        Ag.setVisible(true);*/
+        FrmProducto Pr=new FrmProducto();
+        Pr.setVisible(true);
     }//GEN-LAST:event_btnProductoActionPerformed
 
     private void btnEmpleadoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEmpleadoActionPerformed
-        /*FrmCarro Ca=new FrmCarro();
-        Ca.setVisible(true);*/
+        FrmEmpleado Emp=new FrmEmpleado();
+        Emp.setVisible(true);
     }//GEN-LAST:event_btnEmpleadoActionPerformed
 
     private void btnClienteActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnClienteActionPerformed
@@ -93,6 +102,11 @@ public class Seleccion extends javax.swing.JFrame {
         Cl.setVisible(true);
 
     }//GEN-LAST:event_btnClienteActionPerformed
+
+    private void btnConsultaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnConsultaActionPerformed
+        FrmConsulta Co=new FrmConsulta();
+        Co.setVisible(true);
+    }//GEN-LAST:event_btnConsultaActionPerformed
 
     /**
      * @param args the command line arguments
@@ -140,6 +154,7 @@ public class Seleccion extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnCliente;
+    private javax.swing.JButton btnConsulta;
     private javax.swing.JButton btnEmpleado;
     private javax.swing.JButton btnProducto;
     private javax.swing.JLabel lblFondo;
