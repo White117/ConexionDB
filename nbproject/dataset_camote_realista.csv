@@ -1,0 +1,861 @@
+Año de siembra,Fecha de siembra,Superficie (m2),Altitud (msnm),Distancia entre filas (cm),Distancia en la fila (cm),Mecanización (cm),Fertilización,Riego,Clima,Costo de producción (USD),Producción (kg)
+2024,2024-02-29,6000.0,679.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,59.52,14571.282368846274
+2024,2024-01-25,9000.0,158.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,88.23,19726.480271399527
+2024,2024-01-19,8000.0,680.0,100,50.0,50,Presiembra,Presiembra,Tropical,78.96,21581.047259046667
+2024,2024-02-09,1000.0,623.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Seco,81.43,2934.951505864959
+2024,2024-01-17,1000.0,552.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,69.08,2464.433070568908
+2024,2024-02-18,4000.0,420.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,76.57,7241.507790677219
+2024,2024-01-21,2000.0,,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,28.93,5438.683440259305
+2023,2023-12-17,1000.0,533.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,147.92,2588.8218315378062
+2024,2024-01-12,3000.0,689.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,21.4,8071.874218825899
+2024,2024-03-03,9000.0,780.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,65.84,23051.176044754095
+2023,2023-12-17,7000.0,397.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,98.34,12737.940552475999
+2023,2023-12-31,7000.0,,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,51.75,12779.19201689671
+2024,2024-02-16,4000.0,490.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,56.58,11934.312310706184
+2024,2024-03-27,300.0,631.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,110.26,
+2024,2024-01-09,3000.0,504.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,77.58,6163.807573250002
+2024,2024-01-14,3000.0,637.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,122.29,5590.294139265238
+2023,2023-12-11,1000.0,,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,36.89,2283.9655364568184
+2024,2024-01-25,4000.0,606.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,143.7,9137.782536167218
+2023,2023-12-16,6000.0,487.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,137.28,14291.332376200518
+2024,2024-03-29,1000.0,392.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Subtropical,29.66,2974.639335720504
+2024,2024-03-19,5000.0,475.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,148.18,
+2024,2024-03-28,,417.0,100,,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,33.14,19315.703778145573
+2024,2024-01-10,2000.0,375.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,23.28,5899.436455948101
+2024,2024-01-26,4000.0,547.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),,99.89,11196.689275846416
+2024,2024-02-11,300.0,563.0,100,50.0,50,Presiembra,Presiembra,Tropical,138.22,682.8598600462713
+2023,2023-12-29,300.0,479.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,141.18,790.3851846837482
+2024,2024-02-12,300.0,668.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),,80.66,574.707556925292
+2024,2024-01-24,9000.0,731.0,100,50.0,50,Presiembra,Presiembra,Seco,124.14,23276.608541453657
+2024,2024-03-08,6000.0,707.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,34.12,14555.008370473251
+2024,2024-03-23,,3500.0,100,50.0,50,Presiembra,Presiembra,Subtropical,24.54,7718.60762716002
+2024,2024-02-06,9000.0,666.0,100,50.0,50,Presiembra,Presiembra,Tropical,113.47,17989.685461323188
+2024,2024-03-16,3000.0,422.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,92.77,8374.695538146532
+2024,2024-03-21,7000.0,516.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,84.1,15045.275676690744
+2023,2023-12-27,4000.0,330.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,66.24,10600.925636151815
+2024,2024-01-18,4000.0,684.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,33.37,9602.26773030206
+2024,2024-01-22,9000.0,421.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,71.48,22723.012998661252
+2024,2024-02-16,9000.0,474.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,102.87,26157.487694236042
+2023,2023-12-26,4000.0,553.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,78.12,9001.260763218716
+2024,2024-01-26,2000.0,571.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,107.98,5733.419258746893
+2024,2024-02-01,6000.0,626.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,105.77,15411.588258229753
+2024,2024-01-01,,634.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,136.46,5112.426416080754
+2023,2023-12-07,,605.0,100,50.0,50,Presiembra,Semanal (primer mes),,16.47,2582.5337322598593
+2024,2024-02-05,3000.0,707.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,70.29,8569.010287951454
+2023,2023-12-23,7000.0,348.0,100,50.0,50,Presiembra,Quincenal (segundo mes),,109.61,13416.87074766692
+2024,2024-03-25,10000.0,538.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,44.52,25073.690133838743
+2024,2024-01-31,8000.0,,100,50.0,50,Presiembra,Quincenal (segundo mes),,120.63,15386.295057092482
+2024,2024-01-29,1000.0,199.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,35.38,2582.9978284866975
+2024,2024-02-21,3000.0,445.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,84.33,8857.874643489899
+2023,2023-12-22,3000.0,431.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,136.86,8970.155838678522
+2024,2024-02-27,2000.0,464.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Seco,16.3,5703.050976580471
+2023,2023-12-09,2000.0,567.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,122.18,4931.618287624719
+2024,2024-01-23,4000.0,343.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,136.17,9319.625633599757
+2024,2024-01-20,8000.0,,100,50.0,50,Presiembra,Presiembra,Tropical,70.69,22251.91354681067
+2024,2024-03-28,5000.0,691.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,90.03,13188.096744573973
+2024,2024-02-11,1000.0,-50.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,37.2,2891.727551193966
+2024,2024-01-17,4000.0,603.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,33.72,7873.104692772295
+2024,2024-02-06,10000.0,555.0,100,,50,Presiembra,Presiembra,Tropical,143.18,25120.85730065736
+2024,2024-02-19,5000.0,643.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Subtropical,93.84,10417.302923193856
+2024,2024-01-04,7000.0,274.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,109.83,16577.444311012914
+2024,2024-03-15,5000.0,427.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,87.63,11942.682166779283
+2024,2024-03-21,300.0,257.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Subtropical,80.59,645.670728139465
+2024,2024-01-08,2000.0,698.0,100,50.0,50,Presiembra,Presiembra,Tropical,130.24,3853.489512644488
+2024,2024-01-22,6000.0,682.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,34.62,17649.076897706167
+2024,2024-03-24,9000.0,,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,116.3,16396.027947454255
+2024,2024-01-26,10000.0,360.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,103.38,23661.809558823436
+2024,2024-01-17,5000.0,204.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,108.36,11376.339075837057
+2024,2024-01-22,5000.0,627.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Seco,88.18,10612.262330203403
+2024,2024-01-17,,491.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,145.97,20725.623584090794
+2024,2024-02-04,7000.0,648.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,60.18,13792.111308632828
+2023,2023-12-06,300.0,394.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,144.68,
+2023,2023-12-09,,354.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,70.92,4833.304791170748
+2024,2024-02-04,6000.0,488.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Seco,130.45,13925.533757152214
+2024,2024-03-17,7000.0,417.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,103.3,18273.29703022557
+2024,2024-02-24,7000.0,332.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Subtropical,115.5,16771.478076183274
+2024,2024-03-02,300.0,578.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,33.82,586.6740899940452
+2024,2024-03-30,8000.0,594.0,100,50.0,50,Presiembra,Presiembra,Tropical,36.18,21240.1501492979
+2024,2024-01-23,6000.0,552.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Subtropical,16.88,11365.118052561013
+2024,2024-03-08,9000.0,636.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,114.42,24886.164845238924
+2024,2024-02-12,1000.0,472.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,129.98,2304.2224973691696
+2024,2024-02-20,1000.0,716.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,104.79,
+2023,2023-12-03,4000.0,529.0,100,50.0,50,Presiembra,Presiembra,Tropical,82.91,9264.87320109505
+2024,2024-03-28,,642.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),,87.89,8825.540912488319
+2024,2024-02-09,10000.0,-50.0,100,50.0,50,Presiembra,Presiembra,,73.24,19437.817676817194
+2024,2024-01-06,5000.0,383.0,100,50.0,50,Presiembra,Presiembra,Tropical,47.68,13726.648084231241
+2024,2024-02-11,3000.0,342.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,56.08,8439.691262024113
+2024,2024-03-10,3000.0,375.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Seco,113.64,8027.1311331832085
+2024,2024-03-07,7000.0,658.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,83.16,17783.30224694098
+2024,2024-01-07,,584.0,100,50.0,50,Presiembra,Finalización (75-80 dds),,15.78,713.0220386731718
+2024,2024-03-29,9000.0,620.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,121.32,20152.521956338027
+2023,2023-12-18,2000.0,395.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,18.77,4711.739039170221
+2023,2023-12-28,4000.0,468.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,141.64,8477.606014516632
+2024,2024-01-27,2000.0,416.0,100,50.0,50,Presiembra,Presiembra,Tropical,81.24,4217.754558844645
+2023,2023-12-25,4000.0,627.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Seco,94.13,8400.957449073436
+2024,2024-03-13,1000.0,,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,127.05,2879.2086427177887
+2024,2024-01-19,,475.0,100,,50,Presiembra,Finalización (75-80 dds),,118.23,895.9065349199665
+2024,2024-02-09,300.0,552.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,100.81,889.9711644555896
+2024,2024-01-29,10000.0,364.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,115.62,26579.976642728067
+2023,2023-12-13,1000.0,721.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,131.87,1864.2539457613584
+2023,2023-12-13,1000.0,654.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,94.02,2447.521122676108
+2023,2023-12-23,3000.0,615.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Subtropical,105.72,5451.063674978327
+2023,2023-12-23,6000.0,419.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,127.25,12467.03910175017
+2023,2023-12-07,5000.0,312.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,140.93,10000.0
+2024,2024-01-20,7000.0,372.0,100,,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,70.33,19261.09829843307
+2024,2024-03-10,6000.0,734.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,120.17,12084.946167182412
+2024,2024-02-12,3000.0,577.0,100,,50,Tuberización (40-50 días),Finalización (75-80 dds),Seco,42.92,7583.015622473586
+2024,2024-02-07,5000.0,3500.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Subtropical,75.25,11078.676685514305
+2024,2024-01-16,10000.0,661.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,116.97,26684.37375915354
+2024,2024-01-05,2000.0,419.0,100,50.0,50,Presiembra,Presiembra,Tropical,22.64,5139.2421533522975
+2024,2024-01-10,3000.0,374.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,118.81,7159.83179780634
+2024,2024-01-12,7000.0,526.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,66.89,16279.269001972945
+2023,2023-12-25,7000.0,250.0,100,50.0,50,Presiembra,Presiembra,Tropical,82.96,13917.296921108311
+2024,2024-01-10,5000.0,403.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,85.21,12058.878652792224
+2024,2024-02-01,5000.0,636.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,43.45,13833.798990564188
+2024,2024-02-24,8000.0,464.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,61.32,20338.935553837437
+2024,2024-03-22,3000.0,421.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,135.5,5707.933255450335
+2024,2024-01-25,,614.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,70.29,7767.952103402194
+2024,2024-02-27,8000.0,714.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,95.12,19633.63827670708
+2024,2024-02-07,300.0,553.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,17.38,841.5242083325869
+2024,2024-02-04,5000.0,508.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,123.57,9388.466006801067
+2024,2024-01-10,5000.0,432.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Subtropical,63.17,9294.117173469982
+2024,2024-03-04,9000.0,679.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,112.69,20570.81991262139
+2024,2024-01-27,1000.0,534.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,55.97,1827.672452956599
+2024,2024-03-29,8000.0,628.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Seco,139.28,21301.558552429087
+2023,2023-12-31,10000.0,509.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,34.61,25138.336437080674
+2024,2024-02-16,3000.0,361.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,85.05,6822.360765631803
+2024,2024-03-19,8000.0,654.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,127.12,16795.743483287184
+2024,2024-03-23,300.0,392.0,100,50.0,50,Presiembra,Presiembra,Tropical,100.28,636.6681641872973
+2024,2024-01-14,5000.0,717.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,72.31,9418.046717255012
+2024,2024-01-11,,452.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,135.8,2099.6171272594797
+2024,2024-01-01,8000.0,681.0,100,50.0,50,Presiembra,Presiembra,Tropical,21.98,16955.001459522096
+2024,2024-01-10,7000.0,294.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,82.88,15000.0
+2024,2024-03-29,8000.0,,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,145.84,18750.371874078424
+2024,2024-01-25,,541.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,100.64,
+2024,2024-01-27,6000.0,773.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,64.84,15096.665071574063
+2023,2023-12-13,300.0,563.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,148.24,541.4031019477409
+2024,2024-03-28,7000.0,437.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,17.17,18368.94591328939
+2024,2024-03-23,5000.0,475.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,132.57,9663.558901867389
+2024,2024-01-18,10000.0,560.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,133.73,24218.941409298448
+2024,2024-03-30,3000.0,544.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,58.63,
+2023,2023-12-30,5000.0,547.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),,94.51,13666.969921071217
+2024,2024-03-19,300.0,707.0,100,50.0,50,Presiembra,Presiembra,Tropical,139.95,749.3984884844643
+2024,2024-03-17,10000.0,599.0,100,50.0,50,Presiembra,Presiembra,Tropical,23.98,27453.95393169779
+2023,2023-12-02,9000.0,456.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,111.3,24398.57226067786
+2023,2023-12-06,8000.0,98.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,35.83,17617.32013724642
+2023,2023-12-13,7000.0,549.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,16.66,20279.48229747802
+2023,2023-12-21,6000.0,345.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,143.4,13786.27177595025
+2024,2024-02-09,2000.0,667.0,100,,50,Presiembra,Semanal (primer mes),Tropical,38.92,5561.2509632092
+2024,2024-02-09,8000.0,377.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Subtropical,128.09,
+2024,2024-03-06,8000.0,655.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,145.06,19676.35711229332
+2024,2024-02-17,1000.0,557.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,98.76,2871.064158229939
+2023,2023-12-28,,587.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,89.54,613.9843976277529
+2024,2024-01-09,2000.0,468.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,74.3,5502.667973073805
+2023,2023-12-19,10000.0,576.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,25.64,28051.805148672043
+2023,2023-12-14,300.0,399.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,53.33,548.3156876088252
+2024,2024-02-07,4000.0,336.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,18.71,7489.989242997638
+2023,2023-12-20,,,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,39.23,15892.390882020374
+2023,2023-12-12,5000.0,,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,114.29,12489.672059115896
+2024,2024-01-24,10000.0,,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,91.03,20028.907044853757
+2024,2024-02-29,4000.0,412.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,141.7,9889.256032019284
+2024,2024-03-05,9000.0,342.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,60.84,
+2024,2024-01-26,10000.0,636.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,140.01,20846.685991610222
+2024,2024-03-13,1000.0,479.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,31.43,2120.3252705489967
+2023,2023-12-18,6000.0,772.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,102.49,15895.369444867494
+2023,2023-12-01,300.0,327.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,20.59,635.149930332454
+2024,2024-03-04,300.0,431.0,100,50.0,50,Tuberización (40-50 días),Presiembra,,51.99,630.098784787689
+2023,2023-12-24,6000.0,,100,,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,135.27,16799.25232454539
+2024,2024-01-25,9000.0,312.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,59.28,18803.60634954931
+2023,2023-12-26,10000.0,,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,89.32,28330.114563730764
+2023,2023-12-11,9000.0,274.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,39.63,24162.956162073373
+2023,2023-12-11,,557.0,100,50.0,50,Presiembra,Semanal (primer mes),Subtropical,116.04,9643.484218933807
+2024,2024-01-04,8000.0,622.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),,116.12,19420.40212260406
+2023,2023-12-26,6000.0,334.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,67.88,14577.15651444365
+2023,2023-12-15,4000.0,518.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,116.98,9302.237532615518
+2024,2024-01-04,300.0,409.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,78.87,787.3767763771996
+2023,2023-12-03,10000.0,358.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),,83.78,20618.27498618144
+2024,2024-03-27,6000.0,372.0,100,,50,Presiembra,Finalización (75-80 dds),Tropical,141.35,17377.83514742953
+2024,2024-02-09,6000.0,859.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,91.4,14142.341580277513
+2024,2024-01-30,2000.0,624.0,100,,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,74.93,5389.319577706246
+2024,2024-02-20,,593.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,85.83,10000.0
+2024,2024-03-05,300.0,300.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,117.62,
+2023,2023-12-09,6000.0,323.0,100,,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,81.61,17206.625700208126
+2024,2024-02-26,1000.0,721.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,69.59,2513.2913940588005
+2023,2023-12-08,300.0,541.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Subtropical,129.06,751.562841628415
+2024,2024-02-27,8000.0,563.0,100,,50,Tuberización (40-50 días),Presiembra,Subtropical,80.09,19745.785750035342
+2023,2023-12-04,6000.0,717.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,88.22,13903.329760089351
+2024,2024-03-14,10000.0,562.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,132.35,23897.11439600766
+2024,2024-01-20,,476.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,146.84,12732.551514022221
+2023,2023-12-25,10000.0,702.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),,118.68,20224.38988416613
+2024,2024-03-03,6000.0,187.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,21.6,11834.318450912064
+2024,2024-03-24,4000.0,377.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,51.84,10630.753748662433
+2023,2023-12-27,10000.0,556.0,100,50.0,50,Presiembra,Presiembra,Subtropical,104.54,29239.539464344838
+2024,2024-02-05,3000.0,336.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,38.86,6710.849767165664
+2024,2024-01-02,6000.0,730.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,79.18,17765.019810869828
+2024,2024-02-11,5000.0,288.0,100,50.0,50,Presiembra,Presiembra,Tropical,109.79,10089.070284093157
+2024,2024-03-09,300.0,660.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,116.53,868.3491722705272
+2023,2023-12-25,7000.0,426.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,74.09,15590.631681981304
+2024,2024-03-03,7000.0,264.0,100,50.0,50,Tuberización (40-50 días),Presiembra,,42.35,19428.94698510925
+2024,2024-03-05,5000.0,719.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Seco,67.05,10120.716868741181
+2024,2024-03-01,5000.0,508.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,94.17,14946.006094771503
+2023,2023-12-25,6000.0,351.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,78.18,16282.171978458551
+2023,2023-12-14,300.0,539.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,58.05,782.8214227160236
+2024,2024-03-21,3000.0,399.0,100,,50,Presiembra,Finalización (75-80 dds),Seco,42.92,6972.813012159671
+2024,2024-03-27,300.0,443.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,125.13,848.4779750364283
+2023,2023-12-26,1000.0,235.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,91.38,2333.7575020893746
+2024,2024-03-05,10000.0,745.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Subtropical,88.68,28145.18955522729
+2024,2024-03-16,300.0,506.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,57.85,635.0270924581122
+2023,2023-12-27,9000.0,285.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),,70.72,16310.286367402457
+2023,2023-12-17,300.0,630.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,60.53,552.9327909457173
+2024,2024-02-25,9000.0,821.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Subtropical,89.38,23092.733330542684
+2024,2024-03-11,1000.0,444.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,31.61,2754.7995876042914
+2024,2024-03-17,5000.0,336.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,54.34,10932.93233463358
+2024,2024-02-21,8000.0,470.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,117.91,15402.187939989579
+2024,2024-03-02,9000.0,305.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,71.77,25644.2370773186
+2024,2024-03-21,1000.0,353.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Subtropical,84.35,2257.238496240941
+2024,2024-03-14,2000.0,616.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,100.11,5158.496381717552
+2024,2024-03-23,2000.0,286.0,100,50.0,50,Presiembra,Presiembra,Tropical,69.27,5641.297146920089
+2024,2024-02-16,9000.0,533.0,100,,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,128.89,26073.003477067443
+2024,2024-02-10,4000.0,624.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Subtropical,144.0,10909.488834663316
+2023,2023-12-07,8000.0,298.0,100,,50,Presiembra,Finalización (75-80 dds),Seco,105.55,23163.206967430946
+2023,2023-12-04,10000.0,486.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,92.17,18848.9784701982
+2024,2024-02-04,7000.0,374.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Seco,125.23,12667.50487769458
+2023,2023-12-10,,285.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,70.21,826.24372096027
+2024,2024-03-14,300.0,566.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,136.87,646.469547913194
+2024,2024-02-18,5000.0,668.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,42.03,14002.078835194077
+2024,2024-03-04,,648.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,79.41,15000.0
+2024,2024-03-09,3000.0,535.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,128.91,7443.740862282238
+2024,2024-01-23,2000.0,611.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,65.35,5209.450441504703
+2024,2024-01-23,2000.0,560.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,30.21,5973.42232367334
+2024,2024-03-23,5000.0,636.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,83.23,9874.05496764202
+2023,2023-12-20,7000.0,902.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,122.19,14551.31522055175
+2024,2024-01-17,6000.0,559.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,32.15,15789.547247331757
+2024,2024-02-19,4000.0,538.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,19.6,10275.562878058754
+2024,2024-02-28,6000.0,454.0,100,50.0,50,Presiembra,Presiembra,Subtropical,52.69,
+2023,2023-12-11,9000.0,581.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,79.43,17572.617128308866
+2024,2024-01-27,7000.0,457.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,86.87,20621.357053073036
+2024,2024-03-11,2000.0,370.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,33.13,5207.102316164666
+2023,2023-12-20,6000.0,428.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,70.63,15667.422497555166
+2024,2024-03-05,10000.0,-50.0,100,50.0,50,Presiembra,Presiembra,Tropical,39.58,28275.260481732235
+2024,2024-01-23,5000.0,460.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,109.21,11256.095658724365
+2024,2024-02-19,2000.0,704.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,89.95,5304.442907842331
+2024,2024-02-13,5000.0,266.0,100,,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,144.49,9214.23368419543
+2023,2023-12-02,5000.0,593.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,103.69,11632.951803310845
+2024,2024-03-11,2000.0,429.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,114.97,3646.3417013741146
+2024,2024-01-08,4000.0,524.0,100,50.0,50,Presiembra,Semanal (primer mes),Subtropical,61.1,9705.926254227836
+2024,2024-03-02,5000.0,429.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,68.88,
+2024,2024-03-16,2000.0,442.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,113.07,3961.184691677105
+2024,2024-01-08,8000.0,227.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,97.84,22115.064855078544
+2024,2024-03-30,3000.0,,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,44.13,8773.815392238665
+2024,2024-03-27,3000.0,435.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,48.15,5459.188627280476
+2023,2023-12-07,2000.0,338.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,39.55,4543.161758970018
+2024,2024-03-08,300.0,240.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,129.53,746.3948673864776
+2023,2023-12-15,10000.0,562.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,91.1,21237.526200919874
+2024,2024-03-24,6000.0,487.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,53.37,15903.509756290152
+2023,2023-12-11,9000.0,467.0,100,50.0,50,Presiembra,Presiembra,Tropical,145.32,26367.435938314204
+2023,2023-12-21,8000.0,567.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,111.31,
+2023,2023-12-09,10000.0,384.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Seco,132.77,21972.820583867553
+2023,2023-12-11,10000.0,638.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,48.69,8269.80780719031
+2023,2023-12-22,8000.0,535.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Seco,89.96,17977.751516627217
+2024,2024-02-01,1000.0,514.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Subtropical,102.32,2136.1047838895915
+2024,2024-01-31,6000.0,638.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,144.43,17387.434930110245
+2024,2024-01-04,6000.0,275.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,109.41,13555.019268459391
+2024,2024-01-24,1000.0,438.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,86.63,2437.2799652689755
+2023,2023-12-26,300.0,868.0,100,50.0,50,Presiembra,Presiembra,Tropical,136.98,719.8659447369022
+2024,2024-03-13,300.0,551.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,87.19,676.5262194785506
+2023,2023-12-21,2000.0,358.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,92.76,5382.216694452889
+2024,2024-03-09,8000.0,478.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,51.28,22709.040983665847
+2024,2024-03-31,4000.0,318.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,105.0,
+2023,2023-12-17,,746.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,91.04,829.4883175011141
+2024,2024-01-03,3000.0,549.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,143.88,5970.946899604214
+2024,2024-02-13,1000.0,664.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,34.42,2678.2276943380584
+2024,2024-03-01,1000.0,619.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,36.29,2054.8751939067492
+2023,2023-12-22,1000.0,589.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,117.87,2531.67940767218
+2024,2024-02-15,8000.0,469.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Subtropical,108.45,16415.102076873376
+2023,2023-12-13,8000.0,,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,29.32,21334.726360992674
+2024,2024-02-20,8000.0,577.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Seco,87.83,14588.810333598602
+2023,2023-12-05,6000.0,355.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,96.71,
+2024,2024-01-22,2000.0,269.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,63.8,4687.560611188095
+2023,2023-12-25,7000.0,429.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,148.36,15013.912500985994
+2024,2024-03-20,7000.0,569.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,62.62,14750.717974868554
+2023,2023-12-18,9000.0,724.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,21.86,18248.29276836933
+2023,2023-12-16,3000.0,315.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,25.52,6340.5331762366095
+2024,2024-01-26,2000.0,761.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Subtropical,45.94,4390.561610740708
+2024,2024-01-26,5000.0,638.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,29.4,11416.006446793379
+2024,2024-03-02,5000.0,694.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,78.29,13434.069710473192
+2023,2023-12-05,4000.0,,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,133.32,9298.507177997943
+2023,2023-12-03,3000.0,534.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,113.65,8727.443212610167
+2024,2024-03-28,1000.0,687.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,110.07,
+2024,2024-02-06,2000.0,381.0,100,,50,Presiembra,Finalización (75-80 dds),Tropical,51.21,3854.367249044233
+2024,2024-02-09,5000.0,603.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,77.4,10287.21887096614
+2024,2024-03-13,6000.0,500.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,100.15,15504.148763540794
+2024,2024-03-09,,399.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,93.14,13252.2662511347
+2024,2024-02-09,10000.0,615.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,42.78,19480.180566500436
+2024,2024-02-07,5000.0,667.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,53.78,13753.711849127107
+2024,2024-02-24,2000.0,393.0,100,50.0,50,Presiembra,Presiembra,,82.8,4057.0521930338978
+2024,2024-03-27,10000.0,566.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,48.18,19482.0131460381
+2024,2024-02-10,3000.0,518.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,65.71,6927.179886512315
+2024,2024-03-30,300.0,762.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,103.57,631.9033474993871
+2024,2024-03-06,1000.0,3500.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,42.77,2253.3428752775985
+2024,2024-01-23,10000.0,472.0,100,50.0,50,Presiembra,Presiembra,Subtropical,119.21,23305.892344068896
+2024,2024-02-01,5000.0,659.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Seco,48.98,10094.749690075047
+2023,2023-12-05,5000.0,674.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,108.03,14685.50664095135
+2024,2024-01-11,6000.0,836.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Seco,87.3,12181.756645967887
+2024,2024-01-15,,404.0,100,50.0,50,Presiembra,Presiembra,Tropical,120.47,8239.296243656563
+2024,2024-02-09,8000.0,475.0,100,,50,Presiembra,Finalización (75-80 dds),Subtropical,101.75,20420.818635839936
+2023,2023-12-05,2000.0,744.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,127.46,5645.419113596127
+2024,2024-01-02,1000.0,,100,50.0,50,Presiembra,Presiembra,Tropical,95.37,2402.2582771028096
+2023,2023-12-04,3000.0,590.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,40.51,6339.244056195086
+2024,2024-02-11,9000.0,455.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,149.91,18227.741913228518
+2024,2024-01-20,2000.0,479.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,38.37,5782.685646534552
+2023,2023-12-29,6000.0,649.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Subtropical,21.39,16575.665896518796
+2024,2024-02-01,10000.0,,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,75.29,23654.089238395434
+2024,2024-01-26,5000.0,322.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,52.11,11037.76315298812
+2024,2024-03-07,1000.0,501.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,145.26,2007.107424271413
+2024,2024-02-26,10000.0,696.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Seco,69.23,27113.04513164136
+2024,2024-01-16,2000.0,522.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Seco,65.49,5613.473326174498
+2024,2024-03-06,4000.0,664.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,48.91,11865.780657275183
+2023,2023-12-20,9000.0,786.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,82.44,17996.366330248682
+2023,2023-12-18,7000.0,771.0,100,50.0,50,Presiembra,Presiembra,Tropical,131.23,14546.523974838501
+2024,2024-01-11,2000.0,276.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,49.71,3850.1481710751887
+2024,2024-03-07,,306.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,140.79,21971.66835868413
+2024,2024-03-04,3000.0,518.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Seco,93.03,7507.976885866876
+2023,2023-12-04,2000.0,778.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,46.42,4313.292336686547
+2023,2023-12-23,2000.0,419.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,146.62,4623.791318735828
+2023,2023-12-04,2000.0,572.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),,19.6,4034.1779705674853
+2024,2024-01-13,4000.0,287.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,113.2,9642.488050712283
+2024,2024-03-21,,263.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Seco,98.89,20394.49609797052
+2024,2024-01-06,,631.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,23.74,
+2024,2024-01-13,3000.0,529.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,35.06,8832.490384215336
+2024,2024-01-31,4000.0,280.0,100,,50,Crecimiento inicial (20-30 días),Semanal (primer mes),,81.08,11944.990291882954
+2023,2023-12-13,4000.0,697.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,95.56,9804.012450284334
+2024,2024-03-20,5000.0,748.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,16.7,13517.353211958693
+2024,2024-01-26,7000.0,331.0,100,50.0,50,Presiembra,Presiembra,Tropical,55.66,18186.061554695792
+2024,2024-03-21,300.0,,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,129.86,739.5163534875567
+2023,2023-12-13,,516.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Subtropical,87.02,9012.411740034484
+2024,2024-03-12,10000.0,584.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,145.61,24893.019227929482
+2024,2024-01-08,1000.0,473.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,59.98,2563.8279875877147
+2023,2023-12-06,2000.0,500.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,96.2,5239.736244807475
+2024,2024-02-23,3000.0,566.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,97.87,8483.4522250283
+2024,2024-02-24,8000.0,284.0,100,50.0,50,Presiembra,Presiembra,Tropical,54.68,21578.45061364049
+2024,2024-01-21,9000.0,456.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,94.51,19501.716059167313
+2024,2024-01-10,7000.0,379.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,19.58,14280.361242100778
+2024,2024-02-02,9000.0,458.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,19.03,24176.379589570275
+2023,2023-12-27,3000.0,438.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,105.72,6945.195346002444
+2024,2024-01-05,3000.0,,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,90.71,6237.288678318512
+2023,2023-12-12,7000.0,481.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,29.01,
+2023,2023-12-17,2000.0,559.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,119.27,4664.513198228064
+2024,2024-03-03,10000.0,660.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,87.4,25708.235380637765
+2024,2024-02-17,10000.0,580.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,97.45,27893.224527434137
+2023,2023-12-16,4000.0,459.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,29.74,
+2024,2024-02-28,6000.0,516.0,100,50.0,50,Presiembra,Presiembra,Subtropical,104.66,16405.364205189355
+2024,2024-01-06,4000.0,506.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Seco,42.04,7654.171431530836
+2024,2024-01-03,1000.0,598.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,115.77,1823.9570558607986
+2024,2024-02-20,9000.0,452.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,33.03,17957.31598042158
+2024,2024-02-17,8000.0,607.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,137.71,18396.84833385163
+2024,2024-03-06,5000.0,292.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,46.79,12715.439741050552
+2024,2024-01-14,8000.0,611.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,120.48,22251.44505379156
+2024,2024-02-18,10000.0,386.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,44.34,20914.17657533728
+2024,2024-01-20,10000.0,709.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,27.19,23734.392904829445
+2024,2024-03-20,9000.0,1029.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,87.72,22027.588901037772
+2024,2024-01-24,300.0,274.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,47.08,748.0026458011502
+2023,2023-12-16,4000.0,553.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,130.41,8072.465047308449
+2024,2024-03-03,9000.0,197.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,26.02,17141.663456099977
+2023,2023-12-29,4000.0,359.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),,39.93,8165.538504084554
+2023,2023-12-21,300.0,592.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,56.68,843.4522737982534
+2023,2023-12-15,6000.0,415.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,55.79,15250.608362226974
+2024,2024-01-21,8000.0,690.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,92.78,19327.86920615323
+2024,2024-03-26,5000.0,545.0,100,50.0,50,Presiembra,Presiembra,Tropical,133.1,9892.310489149091
+2024,2024-03-27,6000.0,334.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,141.43,13784.62246551609
+2024,2024-03-07,10000.0,427.0,100,,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,52.88,28164.257486253613
+2023,2023-12-30,300.0,,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,57.93,542.501019053685
+2024,2024-03-18,1000.0,397.0,100,50.0,50,Presiembra,Presiembra,Tropical,20.25,2903.3567470596968
+2024,2024-02-29,,606.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,102.26,15226.08955153912
+2023,2023-12-06,10000.0,576.0,100,50.0,50,Presiembra,Presiembra,Tropical,87.54,20729.193618985402
+2024,2024-02-13,6000.0,461.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,88.3,11397.084663626405
+2024,2024-02-12,1000.0,314.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,114.56,1866.4097027789355
+2023,2023-12-23,7000.0,224.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Seco,124.8,13456.195744168432
+2024,2024-03-14,4000.0,303.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,81.02,9920.541384846221
+2024,2024-01-17,7000.0,450.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,95.45,20925.115967140693
+2023,2023-12-22,1000.0,326.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Subtropical,20.85,
+2023,2023-12-10,6000.0,543.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,62.03,12973.264564571531
+2023,2023-12-22,9000.0,454.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,131.07,
+2024,2024-01-18,8000.0,702.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,67.2,23085.180113086848
+2023,2023-12-20,1000.0,558.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,,97.16,2865.918482033619
+2024,2024-02-27,2000.0,527.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,46.68,4088.667929980542
+2024,2024-02-15,8000.0,364.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,79.27,22490.33385944474
+2024,2024-01-03,9000.0,341.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,75.73,25941.038273946713
+2024,2024-02-02,4000.0,507.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,87.16,8924.040799460743
+2024,2024-03-17,5000.0,,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,128.93,11625.844601181321
+2023,2023-12-19,6000.0,766.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Subtropical,86.23,17535.177083091283
+2024,2024-01-06,,382.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,93.2,14383.427176205298
+2024,2024-02-29,6000.0,710.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,64.97,15095.679009368972
+2024,2024-02-29,3000.0,516.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),,136.56,
+2024,2024-03-27,2000.0,536.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,23.6,5689.004671672805
+2024,2024-02-25,3000.0,775.0,100,50.0,50,Presiembra,Presiembra,Tropical,100.11,7748.0360134267585
+2024,2024-03-28,2000.0,473.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,52.52,5626.659025805522
+2024,2024-01-20,9000.0,520.0,100,50.0,50,Presiembra,Presiembra,Tropical,39.08,19122.6807585805
+2024,2024-01-03,3000.0,361.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,42.19,6506.829670385819
+2024,2024-02-28,9000.0,633.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,24.98,17348.343080816685
+2024,2024-03-23,7000.0,615.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,48.28,14951.247900350942
+2023,2023-12-15,,394.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),,63.89,19553.73998970495
+2024,2024-03-18,2000.0,,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,146.96,4059.3917713795367
+2023,2023-12-17,6000.0,575.0,100,50.0,50,Presiembra,Semanal (primer mes),Subtropical,111.87,17619.953064343194
+2024,2024-03-19,1000.0,512.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,40.08,2219.8304020923515
+2024,2024-01-23,8000.0,297.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,33.77,15599.978443218122
+2024,2024-03-10,2000.0,598.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,45.54,5916.194514846451
+2024,2024-02-05,3000.0,261.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,79.34,6448.25148375691
+2023,2023-12-21,4000.0,561.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,96.33,10244.103420958665
+2023,2023-12-16,5000.0,613.0,100,50.0,50,Presiembra,Presiembra,Tropical,39.1,9974.419291539987
+2023,2023-12-26,8000.0,640.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,63.81,19939.539807671783
+2024,2024-01-15,2000.0,524.0,100,50.0,50,Presiembra,Presiembra,Tropical,146.8,4378.779179947126
+2024,2024-03-26,6000.0,596.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,17.59,12594.907396561759
+2024,2024-02-25,2000.0,670.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,39.91,5306.3783946343165
+2024,2024-02-03,2000.0,601.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Subtropical,30.98,4979.244140833444
+2024,2024-02-17,3000.0,622.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,60.34,6432.942756095587
+2023,2023-12-29,8000.0,616.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,85.63,20911.495054541203
+2024,2024-03-29,300.0,464.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,89.01,598.417289683455
+2024,2024-01-17,9000.0,617.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,37.62,16290.724909277982
+2024,2024-03-14,1000.0,498.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,94.68,2701.182118015599
+2024,2024-03-06,8000.0,599.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,113.17,22244.038408955123
+2024,2024-03-30,4000.0,567.0,100,50.0,50,Presiembra,Semanal (primer mes),Subtropical,94.15,9154.412683952027
+2024,2024-01-25,4000.0,789.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,135.59,7703.680768333353
+2024,2024-03-28,300.0,535.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,73.72,592.4881019677586
+2024,2024-02-15,5000.0,417.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,147.85,13191.047978488987
+2024,2024-02-20,,288.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Subtropical,47.42,10884.784932890485
+2024,2024-01-01,10000.0,962.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,23.23,28727.854793011997
+2023,2023-12-03,5000.0,477.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,83.87,11036.384999490096
+2024,2024-03-20,5000.0,400.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Seco,85.62,12299.44560193045
+2023,2023-12-06,1000.0,702.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,62.98,2950.337931570107
+2023,2023-12-31,9000.0,588.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,128.44,24507.19161220556
+2024,2024-03-19,9000.0,684.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,78.22,20893.05098171574
+2024,2024-02-17,4000.0,576.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,135.13,11759.250130155771
+2023,2023-12-10,4000.0,321.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,79.65,7256.00581901748
+2024,2024-01-15,5000.0,586.0,100,,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,26.23,12050.36700151458
+2023,2023-12-24,3000.0,574.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,67.88,7938.25043021256
+2024,2024-02-17,9000.0,755.0,100,50.0,50,Presiembra,Quincenal (segundo mes),,71.25,25395.97623120366
+2024,2024-02-29,9000.0,,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,88.48,17010.12096578767
+2023,2023-12-02,7000.0,335.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Subtropical,102.57,19225.02043626812
+2024,2024-02-12,4000.0,706.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,68.38,11770.1210166102
+2024,2024-01-06,1000.0,280.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,41.89,1938.1440727487752
+2024,2024-01-22,5000.0,346.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,107.95,9994.014046210634
+2024,2024-03-22,4000.0,252.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,103.42,7838.893208183308
+2024,2024-03-01,10000.0,239.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,64.4,22280.421580356644
+2024,2024-01-29,300.0,,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,118.96,569.4917432787628
+2024,2024-03-19,10000.0,798.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,56.01,
+2024,2024-01-12,7000.0,662.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,145.09,15906.523610068401
+2023,2023-12-18,4000.0,479.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,95.0,9394.82707938313
+2024,2024-01-19,2000.0,557.0,100,50.0,50,Presiembra,Presiembra,,18.16,3657.4846495847983
+2024,2024-02-14,10000.0,641.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,32.15,19114.24799419879
+2024,2024-03-22,300.0,599.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,30.99,578.6547237224472
+2024,2024-03-27,9000.0,243.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,101.42,25493.344406980905
+2024,2024-02-14,10000.0,,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,26.74,27032.118788673266
+2024,2024-03-20,6000.0,436.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,59.23,12954.5743914988
+2024,2024-02-19,20000.0,584.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,31.65,25199.406884161333
+2024,2024-02-08,7000.0,456.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,89.51,12765.088593003888
+2024,2024-01-10,1000.0,818.0,100,50.0,50,Presiembra,Presiembra,Tropical,35.01,
+2024,2024-03-02,3000.0,640.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,143.11,8913.042861227563
+2024,2024-03-17,2000.0,583.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,31.72,5839.832583617624
+2024,2024-03-11,6000.0,386.0,100,50.0,50,Presiembra,Presiembra,,83.54,11380.450283004964
+2023,2023-12-07,4000.0,699.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,93.74,7730.281374135301
+2024,2024-02-20,3000.0,697.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,119.91,10000.0
+2024,2024-01-01,7000.0,633.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Subtropical,148.84,18049.734593097375
+2024,2024-02-13,5000.0,211.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,116.43,10890.647833670291
+2024,2024-02-05,5000.0,402.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,134.38,12400.307835671187
+2024,2024-02-17,7000.0,511.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,118.45,20881.549042005077
+2024,2024-03-18,3000.0,595.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,15.05,6865.350033189032
+2024,2024-02-04,10000.0,554.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Subtropical,35.87,9775.431450136097
+2024,2024-02-13,3000.0,663.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,119.39,7363.2515001535185
+2023,2023-12-10,10000.0,557.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,47.78,23225.63079838187
+2024,2024-01-19,5000.0,622.0,100,50.0,50,Presiembra,Presiembra,Tropical,94.86,12883.51481039785
+2023,2023-12-16,10000.0,,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,100.11,21677.871583876862
+2024,2024-02-07,7000.0,953.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,84.63,15850.005504297505
+2024,2024-03-06,8000.0,538.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,118.62,22795.478541046803
+2024,2024-01-20,9000.0,579.0,100,50.0,50,Presiembra,Presiembra,Tropical,102.85,20046.63560135188
+2024,2024-03-24,8000.0,715.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,31.29,16394.34314174701
+2024,2024-03-09,4000.0,,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,74.64,
+2024,2024-01-28,1000.0,454.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,108.48,2619.091793279946
+2024,2024-03-09,3000.0,484.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,88.19,8606.635518391684
+2024,2024-02-27,9000.0,464.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,106.55,17715.043976867357
+2024,2024-02-17,300.0,414.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,64.41,840.967067332941
+2024,2024-03-30,1000.0,334.0,100,50.0,50,Presiembra,Presiembra,Tropical,131.5,1839.857372218222
+2024,2024-03-06,3000.0,-50.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,46.48,6139.162024281328
+2024,2024-02-06,1000.0,625.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,44.07,2294.264638358628
+2023,2023-12-10,10000.0,314.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,38.18,22391.054773275206
+2023,2023-12-14,4000.0,373.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,94.82,
+2023,2023-12-10,1000.0,561.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,129.43,2723.9757674249195
+2024,2024-01-05,2000.0,463.0,100,50.0,50,Presiembra,Presiembra,Tropical,17.87,4133.84049955313
+2024,2024-02-06,10000.0,458.0,100,,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,71.93,26622.349369994277
+2024,2024-02-01,6000.0,419.0,100,50.0,50,Presiembra,Presiembra,Tropical,15.42,16565.57243327893
+2023,2023-12-17,2000.0,498.0,100,,50,Presiembra,Quincenal (segundo mes),Tropical,126.37,3699.4367311852257
+2024,2024-03-22,20000.0,440.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,105.51,23220.203698872494
+2023,2023-12-21,9000.0,561.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,147.87,19516.778851626445
+2024,2024-03-26,,533.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,68.82,7183.7312627281035
+2024,2024-01-04,10000.0,344.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,130.43,19655.970458589993
+2024,2024-02-11,1000.0,377.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,50.21,2484.2382210558503
+2024,2024-02-08,1000.0,287.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,90.27,1849.4356113533527
+2024,2024-01-04,10000.0,600.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,48.2,17807.475690610365
+2024,2024-01-23,9000.0,416.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,80.54,21346.943507248656
+2023,2023-12-07,10000.0,501.0,100,50.0,50,Presiembra,Presiembra,Tropical,109.08,23121.441992248605
+2024,2024-03-04,8000.0,451.0,100,50.0,50,Presiembra,Presiembra,Tropical,21.94,18505.94225394663
+2024,2024-02-08,3000.0,434.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,74.51,6090.572659171079
+2024,2024-03-31,,516.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,95.69,7103.525370604014
+2024,2024-03-22,2000.0,712.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,136.73,5480.188392742
+2024,2024-02-11,10000.0,577.0,100,50.0,50,Presiembra,Presiembra,Tropical,141.77,18883.50534854505
+2024,2024-03-16,1000.0,499.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,129.66,2240.1460901488767
+2024,2024-01-27,9000.0,350.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,148.23,19486.065996365767
+2023,2023-12-22,2000.0,758.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,113.81,5520.006732076259
+2024,2024-01-30,4000.0,493.0,100,50.0,50,Presiembra,Presiembra,Tropical,37.97,8678.807378693244
+2024,2024-02-12,4000.0,651.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Subtropical,130.65,9822.88083126406
+2024,2024-02-22,7000.0,521.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,49.34,13297.072290968594
+2024,2024-02-09,4000.0,247.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,19.75,7740.215121024264
+2024,2024-02-19,7000.0,403.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Subtropical,142.26,16488.64042568201
+2024,2024-03-28,5000.0,68.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,121.16,12064.475548190954
+2023,2023-12-02,6000.0,427.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,121.48,16825.80453792301
+2024,2024-01-08,2000.0,577.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,66.91,
+2024,2024-03-10,4000.0,412.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,75.29,8395.104105511147
+2024,2024-02-17,4000.0,272.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,128.12,8984.46959433092
+2024,2024-02-15,2000.0,697.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,65.4,5457.704164410337
+2024,2024-02-26,10000.0,566.0,100,50.0,50,Presiembra,Semanal (primer mes),,38.39,22812.595374546654
+2024,2024-03-05,300.0,676.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,129.35,604.5963373333121
+2023,2023-12-11,2000.0,,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,79.04,5460.097748231756
+2023,2023-12-21,9000.0,816.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Subtropical,134.57,24169.491075436395
+2024,2024-03-26,3000.0,523.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,110.67,7307.2390486164595
+2024,2024-03-06,5000.0,652.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,122.37,13276.85835862641
+2024,2024-02-16,5000.0,498.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,41.97,13264.487151304304
+2023,2023-12-31,1000.0,643.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,61.51,2930.934296594529
+2024,2024-03-22,6000.0,530.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,74.6,12914.636072079165
+2024,2024-03-25,6000.0,552.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,99.0,15668.208988959132
+2023,2023-12-14,300.0,557.0,100,,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,55.63,604.3476213489537
+2023,2023-12-08,7000.0,632.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,73.08,16643.480994894748
+2024,2024-03-07,6000.0,737.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,92.77,11112.538177791434
+2023,2023-12-03,4000.0,424.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,55.43,9514.009500061218
+2024,2024-01-06,20000.0,480.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Seco,116.99,6139.597238434912
+2024,2024-01-03,6000.0,862.0,100,50.0,50,Presiembra,Finalización (75-80 dds),,109.77,11635.322226877643
+2024,2024-02-02,10000.0,571.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,32.14,2133.8844963465995
+2023,2023-12-05,7000.0,738.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),,140.34,13800.57150177593
+2024,2024-01-10,1000.0,402.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,98.12,
+2024,2024-03-22,4000.0,603.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),,45.34,
+2024,2024-01-15,9000.0,459.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,52.78,24868.999241607544
+2023,2023-12-10,5000.0,509.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,141.42,11582.150926820392
+2023,2023-12-18,6000.0,517.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,17.91,12024.245007116138
+2024,2024-01-26,8000.0,486.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,48.53,22176.16603009928
+2023,2023-12-26,9000.0,379.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,119.12,
+2024,2024-02-24,7000.0,372.0,100,50.0,50,Presiembra,Presiembra,Subtropical,137.67,16695.085682405326
+2024,2024-01-14,5000.0,509.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,116.84,14779.150947139282
+2023,2023-12-25,7000.0,521.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,59.86,16887.744148714755
+2024,2024-03-26,300.0,294.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,113.66,554.036327582891
+2024,2024-03-03,7000.0,779.0,100,50.0,50,Presiembra,Presiembra,Subtropical,77.71,19666.81336993549
+2024,2024-01-22,8000.0,132.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,104.03,17745.62217897056
+2024,2024-02-22,6000.0,601.0,100,50.0,50,Presiembra,Presiembra,Tropical,88.71,10000.0
+2024,2024-03-24,,708.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,79.26,4493.337419822935
+2024,2024-01-28,300.0,549.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,94.31,648.9263282392969
+2024,2024-02-06,2000.0,307.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,75.52,5732.691737050234
+2024,2024-02-27,5000.0,504.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),,121.68,11993.426020046538
+2024,2024-03-09,10000.0,377.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,76.39,20357.768024463763
+2023,2023-12-07,2000.0,583.0,100,50.0,50,Presiembra,Presiembra,Tropical,90.39,5808.390854644893
+2024,2024-01-19,10000.0,520.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,82.14,18046.28375914673
+2024,2024-01-09,6000.0,344.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,145.41,11313.529390456553
+2024,2024-02-15,8000.0,539.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,107.79,15373.060472461215
+2024,2024-02-13,5000.0,,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,97.44,12181.37444183655
+2024,2024-03-07,3000.0,267.0,100,,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),,85.34,7181.767780781632
+2023,2023-12-07,1000.0,622.0,100,50.0,50,Presiembra,Presiembra,Seco,73.73,2616.0455337990934
+2023,2023-12-21,2000.0,934.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,65.12,5184.630898028237
+2024,2024-01-16,4000.0,255.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,92.84,7616.012385762093
+2024,2024-01-19,10000.0,480.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,105.4,22984.90596841673
+2024,2024-02-23,3000.0,645.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,30.76,6540.337181073717
+2024,2024-02-26,9000.0,478.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Subtropical,38.03,26321.471038598196
+2024,2024-03-29,3000.0,,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,129.12,6488.824550406535
+2023,2023-12-04,6000.0,,100,50.0,50,Presiembra,Finalización (75-80 dds),,52.84,13831.80240973909
+2023,2023-12-19,5000.0,846.0,100,50.0,50,Presiembra,Presiembra,Tropical,30.99,14921.901504553854
+2023,2023-12-05,7000.0,207.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,100.11,15972.696671745884
+2024,2024-02-22,1000.0,439.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,72.06,2897.534815241219
+2024,2024-03-14,,352.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,58.71,5596.338756730719
+2024,2024-02-25,5000.0,418.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,52.36,9863.796451692473
+2023,2023-12-13,5000.0,455.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,111.16,11666.897061630449
+2024,2024-01-16,9000.0,378.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,85.28,15000.0
+2023,2023-12-08,1000.0,389.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,106.39,2593.921026165215
+2024,2024-03-12,300.0,433.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Subtropical,104.82,
+2023,2023-12-24,1000.0,605.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,135.63,2563.1627622675787
+2024,2024-01-23,10000.0,337.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,52.45,19728.069140784482
+2024,2024-02-13,9000.0,394.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,93.71,17637.11226958929
+2024,2024-01-30,10000.0,434.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,41.71,24870.520863188343
+2024,2024-02-01,1000.0,494.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,142.66,2204.6454255146514
+2024,2024-02-19,5000.0,450.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,101.5,12470.42701814853
+2024,2024-01-04,3000.0,507.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,31.26,7562.45411157536
+2024,2024-01-26,4000.0,316.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,33.82,11957.417037157686
+2024,2024-03-01,7000.0,731.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Seco,114.28,14939.145258458559
+2024,2024-03-06,1000.0,608.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,33.37,1943.8915062297865
+2024,2024-01-07,10000.0,,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,78.55,25102.420071565102
+2024,2024-03-21,6000.0,246.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,138.46,15779.909114242075
+2023,2023-12-01,9000.0,413.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,95.69,22536.089024926176
+2023,2023-12-22,300.0,596.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,35.63,652.7060491064508
+2023,2023-12-30,9000.0,352.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,88.13,25788.781152442385
+2024,2024-01-24,2000.0,342.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,92.25,4782.290896835311
+2024,2024-01-24,8000.0,692.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Subtropical,42.59,21378.335954539434
+2024,2024-02-13,4000.0,418.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,42.16,9039.822884186467
+2024,2024-03-05,6000.0,507.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,102.08,15539.673951197188
+2024,2024-01-05,6000.0,414.0,100,,50,Presiembra,Presiembra,Tropical,143.25,10814.642622235457
+2024,2024-03-18,300.0,579.0,100,50.0,50,Presiembra,Presiembra,Seco,130.58,815.8222161386044
+2024,2024-02-05,300.0,313.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Subtropical,88.1,806.2890175406485
+2024,2024-01-29,300.0,661.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,45.39,713.981358348831
+2024,2024-02-26,4000.0,757.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Seco,111.09,7834.1842378432675
+2024,2024-01-06,10000.0,388.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,124.64,18220.934229551804
+2024,2024-03-05,1000.0,518.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,21.13,2983.6762389950227
+2024,2024-01-10,1000.0,416.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,122.65,1976.8833774876086
+2024,2024-01-22,1000.0,625.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Subtropical,59.7,2276.9950392342776
+2024,2024-03-22,8000.0,308.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Seco,45.94,21971.371627627712
+2024,2024-01-11,9000.0,340.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Subtropical,115.97,16782.405401101252
+2024,2024-03-21,9000.0,373.0,100,,50,Presiembra,Finalización (75-80 dds),,46.05,23072.977997415517
+2024,2024-01-17,4000.0,534.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,33.53,7675.531744069773
+2023,2023-12-16,2000.0,564.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,71.62,5840.530700783518
+2023,2023-12-20,1000.0,544.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,126.49,2196.8035569352933
+2024,2024-01-24,300.0,707.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,131.84,695.3595460935073
+2024,2024-02-26,9000.0,394.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,82.82,24512.848599463046
+2024,2024-01-08,10000.0,619.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,129.82,23311.93329395883
+2024,2024-01-18,5000.0,555.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,42.65,12993.30192970857
+2024,2024-02-01,300.0,577.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,26.77,645.2069465759107
+2024,2024-02-05,2000.0,394.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,132.45,4843.305564724117
+2024,2024-03-03,7000.0,529.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Subtropical,30.77,18315.960594861517
+2024,2024-02-02,7000.0,486.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,68.2,13577.349880911466
+2024,2024-01-23,3000.0,98.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,121.28,
+2024,2024-03-12,7000.0,619.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,79.32,15030.851642583135
+2023,2023-12-10,4000.0,428.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,23.6,8320.597102305523
+2023,2023-12-28,4000.0,330.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,44.07,11673.645728036507
+2024,2024-01-28,7000.0,570.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,104.75,20900.903990265346
+2024,2024-01-31,2000.0,649.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,129.89,4052.8577310958144
+2024,2024-03-06,1000.0,581.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,48.16,2160.512739203771
+2024,2024-02-17,2000.0,416.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,47.57,5727.659407757007
+2024,2024-02-26,6000.0,303.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,85.45,15999.224262038922
+2024,2024-02-07,4000.0,400.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,102.54,10000.0
+2024,2024-03-16,5000.0,541.0,100,,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,24.33,11603.55843702145
+2024,2024-02-02,9000.0,793.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Subtropical,82.41,21119.477194691095
+2024,2024-03-29,7000.0,562.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,31.15,14577.244779684595
+2024,2024-03-27,2000.0,514.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,135.45,5238.043631680266
+2023,2023-12-31,8000.0,515.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,134.59,22548.50659109062
+2024,2024-03-17,2000.0,806.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,99.03,3788.016399675508
+2023,2023-12-19,300.0,523.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,50.2,622.7840884203343
+2023,2023-12-20,10000.0,568.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,109.16,20753.389811350058
+2024,2024-01-27,7000.0,496.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,139.72,16824.511878427442
+2024,2024-03-25,7000.0,709.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,83.18,17647.809355670837
+2024,2024-03-10,3000.0,430.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,140.89,7469.213179230033
+2024,2024-01-07,6000.0,477.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,38.27,14883.678762570533
+2023,2023-12-16,1000.0,612.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,123.24,2592.0957935561614
+2024,2024-01-23,10000.0,569.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,139.49,27095.775587812575
+2024,2024-01-26,6000.0,500.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Subtropical,106.81,14147.489499548494
+2023,2023-12-29,3000.0,507.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,85.22,6895.863099278205
+2024,2024-01-17,20000.0,460.0,100,50.0,50,Presiembra,Presiembra,Tropical,50.7,5327.372930901947
+2024,2024-02-05,9000.0,614.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,20.12,19645.19557577559
+2024,2024-03-04,5000.0,543.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,37.22,10010.751935426691
+2024,2024-03-23,10000.0,222.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,28.33,20207.01082115561
+2024,2024-03-31,3000.0,513.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,59.84,6084.9304179965875
+2024,2024-03-23,,537.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,70.1,7280.086367983376
+2024,2024-03-26,7000.0,519.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,38.28,12883.960950077297
+2024,2024-03-18,1000.0,3500.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,47.92,1896.4950067305615
+2024,2024-01-27,6000.0,592.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,112.96,16330.709631663345
+2024,2024-02-01,9000.0,520.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,103.22,25001.51457849358
+2024,2024-03-23,2000.0,549.0,100,50.0,50,Presiembra,Semanal (primer mes),Seco,132.08,5789.958303484186
+2024,2024-03-30,7000.0,342.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,49.13,19734.49891187192
+2024,2024-02-12,8000.0,729.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,24.35,21815.6746994554
+2024,2024-03-04,,638.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,81.07,23302.757463881004
+2024,2024-02-02,9000.0,,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,92.57,16659.983365897864
+2024,2024-03-05,300.0,589.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Seco,45.16,549.8799091265365
+2024,2024-03-17,9000.0,668.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Seco,149.92,19407.081267718342
+2024,2024-02-18,4000.0,474.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Subtropical,17.34,
+2023,2023-12-22,1000.0,533.0,100,,50,Presiembra,Presiembra,Tropical,107.98,2063.4369265909577
+2024,2024-02-14,5000.0,371.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,149.97,11220.145007102383
+2023,2023-12-22,10000.0,678.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,60.9,21506.10898091616
+2023,2023-12-22,9000.0,428.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,49.39,19884.5732497796
+2024,2024-02-17,7000.0,471.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,45.92,16413.67113812423
+2024,2024-01-03,9000.0,215.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,18.87,23140.908311433403
+2024,2024-01-23,8000.0,565.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,70.72,23448.689979112707
+2023,2023-12-10,8000.0,514.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,27.17,14437.908167583682
+2024,2024-02-26,5000.0,618.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,88.64,12066.899258641522
+2024,2024-03-25,10000.0,505.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Seco,134.17,19539.16989069003
+2023,2023-12-31,7000.0,718.0,100,50.0,50,Presiembra,Presiembra,Seco,104.84,19366.457223213856
+2024,2024-02-29,5000.0,504.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,55.94,10711.11152679623
+2023,2023-12-09,8000.0,714.0,100,50.0,50,Presiembra,Presiembra,Subtropical,123.52,23500.17041066436
+2024,2024-03-02,9000.0,545.0,100,,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,74.03,16228.555686837211
+2024,2024-02-19,300.0,863.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,36.1,850.4685910668288
+2023,2023-12-26,10000.0,312.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,78.9,21249.46949172241
+2023,2023-12-03,1000.0,309.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,48.23,2324.593909988758
+2024,2024-03-01,2000.0,277.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,124.56,5648.642275330149
+2024,2024-01-20,10000.0,683.0,100,50.0,50,Presiembra,Presiembra,Tropical,102.37,26705.429100408262
+2024,2024-03-22,1000.0,655.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,134.93,2048.7377756205497
+2024,2024-01-12,5000.0,593.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Subtropical,145.76,11029.774020584471
+2023,2023-12-08,7000.0,698.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,31.36,15211.482881051526
+2024,2024-02-26,8000.0,455.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,110.63,17374.984710561122
+2023,2023-12-26,4000.0,667.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,149.7,11340.238642278266
+2024,2024-02-05,10000.0,420.0,100,50.0,50,Presiembra,Semanal (primer mes),Subtropical,18.04,24473.43040196228
+2024,2024-03-06,2000.0,673.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,60.69,5468.9256414543925
+2023,2023-12-11,6000.0,467.0,100,50.0,50,Presiembra,Presiembra,Seco,122.36,14738.17460687369
+2023,2023-12-07,4000.0,551.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,135.99,10731.521758116687
+2024,2024-03-15,300.0,713.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,62.94,802.3404962841656
+2024,2024-03-25,9000.0,631.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,21.17,23227.85914642151
+2024,2024-03-08,10000.0,681.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,67.41,16004.529526193099
+2024,2024-01-18,2000.0,287.0,100,50.0,50,Presiembra,Presiembra,Subtropical,95.91,5290.614402222856
+2024,2024-03-14,1000.0,314.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,138.84,2619.5571347483647
+2024,2024-02-14,7000.0,672.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,131.55,14214.387290159078
+2024,2024-03-05,8000.0,680.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,76.57,17875.32136410044
+2024,2024-02-19,5000.0,,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,100.11,10001.75217204005
+2024,2024-03-17,7000.0,607.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,86.86,19564.31089882553
+2024,2024-03-18,8000.0,538.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,80.43,
+2024,2024-03-24,8000.0,363.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),,21.74,23689.776667220507
+2023,2023-12-06,4000.0,418.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,108.18,9885.377718384148
+2023,2023-12-13,3000.0,,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,28.2,7411.121557352803
+2023,2023-12-17,300.0,680.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,105.68,594.8197092749708
+2024,2024-01-18,4000.0,715.0,100,50.0,50,Presiembra,Presiembra,Tropical,19.89,11714.259941428158
+2024,2024-03-25,1000.0,418.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,141.16,2082.501207062692
+2024,2024-01-26,8000.0,527.0,100,50.0,50,Presiembra,Presiembra,Tropical,19.63,17684.362328329236
+2024,2024-03-10,300.0,571.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,135.53,555.8516083997648
+2024,2024-01-11,2000.0,,100,,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),,44.86,4402.697170189924
+2023,2023-12-02,8000.0,710.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,132.08,22343.660463456945
+2024,2024-01-13,6000.0,166.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,40.74,14383.826014948047
+2024,2024-02-09,3000.0,320.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,77.47,7399.386313384991
+2024,2024-03-12,10000.0,340.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,74.24,20458.067055201842
+2024,2024-01-05,7000.0,534.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Subtropical,60.79,20954.140289104198
+2024,2024-02-04,9000.0,407.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Subtropical,75.01,23471.93421867196
+2024,2024-01-14,9000.0,214.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,15.76,21241.387399215764
+2023,2023-12-23,8000.0,,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,33.74,16641.144766269343
+2024,2024-03-08,1000.0,464.0,100,,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,94.21,2554.475341851741
+2024,2024-02-19,10000.0,710.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,73.31,19269.44022083739
+2024,2024-03-21,9000.0,737.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,128.87,24116.76628219402
+2024,2024-01-09,10000.0,493.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,20.34,23523.80116521139
+2024,2024-02-23,6000.0,316.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,140.65,15629.346297507851
+2024,2024-01-08,9000.0,504.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,44.37,17965.33875744769
+2023,2023-12-19,9000.0,621.0,100,,50,Presiembra,Presiembra,,144.3,19166.54567719596
+2023,2023-12-20,4000.0,661.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,47.74,8862.973546630134
+2024,2024-03-04,4000.0,638.0,100,50.0,50,Presiembra,Presiembra,Tropical,76.49,11552.209378312124
+2024,2024-02-26,5000.0,82.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,39.92,10398.062937863475
+2024,2024-03-10,3000.0,,100,50.0,50,Presiembra,Semanal (primer mes),,97.77,8427.987399945143
+2023,2023-12-25,6000.0,-50.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,42.03,15242.84238316731
+2024,2024-03-04,3000.0,422.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,118.42,5819.457444746676
+2024,2024-01-22,4000.0,761.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Subtropical,70.72,8400.124894002485
+2023,2023-12-01,7000.0,492.0,100,,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,27.83,19292.753065989073
+2023,2023-12-26,8000.0,,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,71.64,22107.57118134953
+2023,2023-12-25,6000.0,444.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,76.55,11705.288667541252
+2024,2024-03-27,10000.0,563.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),,65.58,21824.773080272327
+2024,2024-01-16,5000.0,638.0,100,50.0,50,Presiembra,Presiembra,Tropical,24.16,12553.485732880112
+2023,2023-12-24,4000.0,527.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,127.93,7869.097515982576
+2024,2024-01-19,1000.0,586.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Subtropical,36.84,2945.6586561054132
+2024,2024-03-11,,532.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,26.13,19057.500962782728
+2023,2023-12-03,4000.0,585.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,146.74,11997.54361172612
+2024,2024-02-11,7000.0,452.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Subtropical,100.48,
+2024,2024-03-08,3000.0,584.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,113.0,8147.125821184966
+2024,2024-01-22,9000.0,471.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,53.38,18967.808699531495
+2023,2023-12-02,2000.0,471.0,100,50.0,50,Presiembra,Presiembra,Tropical,142.37,4264.65247497291
+2024,2024-02-12,4000.0,654.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Seco,131.63,9300.367590601172
+2024,2024-02-11,,449.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,17.63,28771.069582812735
+2024,2024-01-12,8000.0,681.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,69.24,17323.240460366007
+2024,2024-02-01,6000.0,676.0,100,50.0,50,Presiembra,Presiembra,Tropical,33.79,15060.009717573774
+2023,2023-12-04,3000.0,571.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Subtropical,85.51,8903.486282167358
+2024,2024-03-26,2000.0,485.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,59.27,4783.820438278649
+2023,2023-12-15,6000.0,304.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,68.19,11233.81758551152
+2024,2024-02-13,300.0,382.0,100,50.0,50,Presiembra,Presiembra,Tropical,78.11,711.2477916839464
+2023,2023-12-05,10000.0,291.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,50.77,26112.01691889182
+2023,2023-12-27,7000.0,161.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,126.99,17250.78247739449
+2023,2023-12-20,6000.0,724.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,80.96,10872.365940042644
+2024,2024-02-16,1000.0,421.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,127.83,1943.9276149391408
+2024,2024-02-29,6000.0,641.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,148.59,15763.569494041149
+2024,2024-03-11,5000.0,591.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,116.92,10960.863019727036
+2024,2024-03-02,3000.0,640.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,134.63,7559.955496984859
+2024,2024-01-13,8000.0,343.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,18.66,19680.43783992375
+2024,2024-01-27,6000.0,738.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,146.66,15291.350441916786
+2023,2023-12-18,1000.0,557.0,100,,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,85.94,2395.634870990458
+2024,2024-02-05,3000.0,534.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,116.81,8251.158737031048
+2024,2024-03-09,300.0,325.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,61.97,686.8756106617572
+2024,2024-01-17,300.0,598.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,127.71,736.2503690322125
+2024,2024-01-17,6000.0,615.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,84.67,12816.637206762896
+2024,2024-03-13,3000.0,528.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,46.15,8981.124931763889
+2023,2023-12-08,8000.0,446.0,100,50.0,50,Presiembra,Presiembra,Tropical,127.33,20753.197733890127
+2023,2023-12-06,2000.0,690.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,43.59,4624.343442555403
+2024,2024-01-04,6000.0,295.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Subtropical,140.19,13121.37481414293
+2024,2024-01-12,4000.0,,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,18.31,8565.931865582668
+2023,2023-12-03,8000.0,589.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,87.16,
+2024,2024-02-28,6000.0,737.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,31.54,14981.099989202212
+2024,2024-02-21,3000.0,248.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,127.1,5430.570987738773
+2024,2024-03-11,8000.0,483.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,116.76,
+2024,2024-01-30,3000.0,678.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,25.58,6439.275463048935
+2024,2024-03-27,9000.0,684.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,29.16,20421.253549959863
+2023,2023-12-01,9000.0,328.0,100,50.0,50,Presiembra,Presiembra,Tropical,125.47,22471.96824285749
+2024,2024-01-05,4000.0,453.0,100,,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,115.57,8874.76445044692
+2024,2024-01-18,2000.0,492.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),,78.66,4300.881652378331
+2024,2024-02-19,6000.0,631.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,60.72,
+2024,2024-01-11,1000.0,593.0,100,50.0,50,Presiembra,Presiembra,Tropical,66.14,10000.0
+2023,2023-12-10,7000.0,463.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,58.21,17696.106547031526
+2024,2024-02-20,3000.0,3500.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,61.86,7894.8978376824725
+2023,2023-12-12,10000.0,,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,38.1,21678.632905276223
+2024,2024-01-27,9000.0,521.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,105.17,20137.438539599767
+2023,2023-12-26,5000.0,484.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,44.24,11746.181677756103
+2024,2024-03-11,9000.0,344.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,,104.63,17529.38681167938
+2024,2024-02-11,10000.0,613.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,149.5,23848.416681828545
+2023,2023-12-08,300.0,633.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,32.32,616.1694919581
+2024,2024-02-01,8000.0,491.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,126.49,14937.437952560736
+2023,2023-12-24,9000.0,476.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,48.41,24452.918469068685
+2024,2024-01-04,3000.0,612.0,100,50.0,50,Presiembra,Presiembra,Subtropical,37.46,
+2024,2024-02-08,4000.0,414.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Subtropical,108.75,9539.393107469705
+2024,2024-01-05,7000.0,507.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,81.16,
+2023,2023-12-31,,568.0,100,,50,Presiembra,Quincenal (segundo mes),Tropical,111.04,22401.423637959466
+2023,2023-12-24,9000.0,640.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,90.46,20515.43791126859
+2023,2023-12-18,5000.0,366.0,100,,50,Presiembra,Semanal (primer mes),Tropical,104.4,9236.238234811786
+2024,2024-03-06,7000.0,440.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,41.95,17326.74984149346
+2024,2024-02-26,5000.0,498.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,144.28,13450.912000942826
+2024,2024-02-27,2000.0,720.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,118.98,3766.7826213550006
+2024,2024-02-19,4000.0,476.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,61.38,9331.190442967683
+2023,2023-12-23,7000.0,463.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,16.31,16132.993890959686
+2023,2023-12-17,5000.0,249.0,100,50.0,50,Presiembra,Presiembra,Tropical,22.17,12637.619838434655
+2024,2024-03-30,8000.0,418.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,102.69,20879.608129120985
+2024,2024-02-02,3000.0,464.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,102.92,6723.755595754231
+2024,2024-02-08,8000.0,727.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,82.9,20433.615978877348
+2024,2024-03-06,1000.0,402.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,90.31,2949.846928000532
+2024,2024-01-20,,192.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,114.68,10999.625355875127
+2024,2024-01-06,7000.0,592.0,100,50.0,50,Presiembra,Presiembra,Tropical,80.37,16639.139801693058
+2023,2023-12-17,5000.0,602.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,141.64,12875.833997177926
+2024,2024-02-03,300.0,594.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,143.21,549.0640677851509
+2023,2023-12-15,10000.0,298.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,59.7,22779.849621383975
+2024,2024-01-09,9000.0,366.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,91.08,25470.405298037254
+2023,2023-12-25,300.0,365.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,21.02,727.6270463820108
+2024,2024-02-17,,750.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Seco,98.89,9280.476330730977
+2024,2024-03-24,10000.0,273.0,100,50.0,50,Tuberización (40-50 días),Quincenal (segundo mes),Subtropical,100.01,10000.0
+2024,2024-02-06,6000.0,525.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,83.7,
+2024,2024-03-24,8000.0,241.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,129.89,20901.414068713562
+2024,2024-03-27,5000.0,556.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,55.44,10336.18805459885
+2024,2024-01-13,6000.0,390.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,94.91,13362.585550466398
+2024,2024-02-12,300.0,446.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,81.74,871.0056853471544
+2024,2024-03-15,4000.0,466.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,123.13,9804.265269272879
+2023,2023-12-30,300.0,530.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,33.62,771.2878066090381
+2023,2023-12-11,6000.0,358.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,64.45,11533.767203423391
+2024,2024-01-31,4000.0,484.0,100,,50,Crecimiento inicial (20-30 días),Semanal (primer mes),,130.52,11067.753514791393
+2024,2024-02-19,6000.0,578.0,100,,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,91.6,17425.11837240291
+2024,2024-02-06,1000.0,490.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Seco,91.17,1971.45602117222
+2024,2024-03-22,4000.0,461.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,88.87,10832.324891089747
+2024,2024-01-11,1000.0,531.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,112.52,2513.302240008431
+2024,2024-01-04,8000.0,308.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,138.45,20582.370388155665
+2024,2024-01-02,5000.0,569.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,38.74,9436.155903222943
+2023,2023-12-14,,329.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Seco,27.53,12157.638036469829
+2024,2024-03-26,3000.0,546.0,100,,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,145.3,7896.097791466818
+2023,2023-12-24,300.0,437.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,98.13,885.2667092168878
+2024,2024-01-30,5000.0,337.0,100,50.0,50,Presiembra,Semanal (primer mes),Tropical,58.45,
+2023,2023-12-07,3000.0,447.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,53.05,8295.650781151004
+2024,2024-03-07,6000.0,761.0,100,,50,Tuberización (40-50 días),Quincenal (segundo mes),Tropical,117.82,17960.06400354654
+2024,2024-02-05,7000.0,416.0,100,50.0,50,Tuberización (40-50 días),Presiembra,Tropical,135.74,16061.722127074332
+2024,2024-03-11,9000.0,584.0,100,50.0,50,Presiembra,Finalización (75-80 dds),Tropical,125.68,
+2023,2023-12-12,2000.0,390.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,60.44,5045.51823569197
+2024,2024-02-13,300.0,654.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,149.47,707.0798846391532
+2023,2023-12-01,4000.0,576.0,100,50.0,50,Presiembra,Presiembra,Subtropical,132.71,8725.221076258435
+2024,2024-03-27,8000.0,503.0,100,50.0,50,Crecimiento inicial (20-30 días),Presiembra,Tropical,27.84,22800.569670357476
+2023,2023-12-07,6000.0,624.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,80.2,14473.780522012408
+2024,2024-01-11,1000.0,503.0,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),Tropical,60.43,2407.7730704150163
+2024,2024-03-27,7000.0,505.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,39.82,13098.457941800938
+2023,2023-12-15,5000.0,313.0,100,50.0,50,Tuberización (40-50 días),Finalización (75-80 dds),Tropical,66.43,9816.069799446577
+2024,2024-02-18,1000.0,523.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,21.6,2207.6833525308407
+2024,2024-02-11,2000.0,516.0,100,50.0,50,Presiembra,Quincenal (segundo mes),Tropical,139.55,3956.0201026414866
+2024,2024-03-17,10000.0,321.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,44.23,29388.465015496942
+2023,2023-12-20,3000.0,540.0,100,50.0,50,Presiembra,Presiembra,Tropical,29.45,8284.119539672483
+2024,2024-03-12,3000.0,905.0,100,50.0,50,Crecimiento inicial (20-30 días),Finalización (75-80 dds),Tropical,31.6,
+2024,2024-03-22,6000.0,518.0,100,50.0,50,Presiembra,Presiembra,Tropical,20.75,12562.554118875949
+2024,2024-03-16,1000.0,558.0,100,,50,Presiembra,Presiembra,Tropical,67.94,1963.0231692673967
+2024,2024-02-07,,,100,50.0,50,Tuberización (40-50 días),Semanal (primer mes),,122.81,1994.1579231728135
+2024,2024-01-17,8000.0,478.0,100,50.0,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Tropical,110.4,16105.722887097654
+2024,2024-01-27,3000.0,395.0,100,,50,Crecimiento inicial (20-30 días),Quincenal (segundo mes),Subtropical,130.59,6185.943484762774
+2024,2024-01-30,4000.0,528.0,100,50.0,50,Crecimiento inicial (20-30 días),Semanal (primer mes),Tropical,97.88,7574.535855527419
